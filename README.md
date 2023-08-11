@@ -1,2 +1,2 @@
 # book-app-management
-kalo ini untuk bikin 
+kalo ini untuk bikin web app
